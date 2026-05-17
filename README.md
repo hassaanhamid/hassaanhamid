@@ -1,63 +1,94 @@
 <div align="center">
 
-# Hey, I'm Hassaan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hassaan%20Hamid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20AI%20Automation%20%7C%20Data%20Science&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%" />
 
-**Python & AI Automation Engineer**  
-Building tools that do the repetitive work so you don't have to.
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaanhamid)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassaanhamid)
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2C9EBC&center=true&vCenter=true&width=500&lines=Automating+the+boring+stuff+with+Python+%26+AI;Building+RAG+pipelines+and+ML+workflows;If+it%27s+repetitive%2C+I%27m+probably+automating+it)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## What I Do
+<div align="center">
 
-I specialize in **Data Science**, **Machine Learning**, and **AI Automation** workflows — with a focus on practical, production-ready solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaanhamid)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassaanhamid)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=hassaanhamid&style=for-the-badge&color=2c9ebc&label=PROFILE+VIEWS)
 
-If a task is repetitive and rule-based, I'm probably already automating it.
+</div>
 
 ---
 
-## Tech Stack
+## 🧠 What I Build
+
+I specialize in **Data Science**, **Machine Learning**, and **AI Automation** — with a focus on practical, production-ready solutions. If a task is repetitive and rule-based, I'm probably already automating it.
+
+- 🤖 AI agents and workflow automation using Python & LLMs
+- 📄 RAG pipelines for document intelligence
+- 🔗 API integrations (LinkedIn, Notion, Sitemaps, and more)
+- 📊 Data pipelines and ML model development
+
+---
+
+## 🛠 Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square)
+![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square&logoColor=white)
 
 **AI / ML**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Tools & Platforms**
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![LinkedIn API](https://img.shields.io/badge/LinkedIn_API-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [ContentSync](https://github.com/hassaanhamid/ContentSync) | Automated content syncing pipeline | Python |
-| [RAG PDF Chatbot](https://github.com/hassaanhamid/RAG-PDF-Chatbot) | Chat with your PDFs using RAG | JavaScript |
-| [LinkedIn Automation](https://github.com/hassaanhamid/LinkedIn-Posting-Automation-for-Blogs-Notion-and-Sitemaps-) | Auto-post from Notion/blogs to LinkedIn | Python |
-| [Blackjack (x86 Assembly)](https://github.com/hassaanhamid/x86-Assembly---Blackjack-Game) | Fully playable card game in raw Assembly | Assembly |
-
----
-
-## GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-![Hassaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassaanhamid&show_icons=true&theme=dark&hide_border=true&count_private=true)
+| Project | What it does | Stack |
+|:---|:---|:---:|
+| [**ContentSync**](https://github.com/hassaanhamid/ContentSync) | Automated content syncing pipeline | `Python` |
+| [**RAG PDF Chatbot**](https://github.com/hassaanhamid/RAG-PDF-Chatbot) | Chat with PDFs using Retrieval-Augmented Generation | `JS` |
+| [**LinkedIn Automation**](https://github.com/hassaanhamid/LinkedIn-Posting-Automation-for-Blogs-Notion-and-Sitemaps-) | Auto-publish from Notion & blogs to LinkedIn | `Python` |
+| [**OOP Blackjack**](https://github.com/hassaanhamid/OOP-Blackjack) | Fully playable card game built with OOP principles | `C++` |
+| [**x86 Blackjack**](https://github.com/hassaanhamid/x86-Assembly---Blackjack-Game) | Same game, raw Assembly — just to prove it could be done | `ASM` |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhamid&layout=compact&theme=dark&hide_border=true)
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassaanhamid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhamid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanhamid&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -65,6 +96,8 @@ If a task is repetitive and rule-based, I'm probably already automating it.
 
 <div align="center">
 
-*Based in Karachi 🇵🇰 · Open to remote collaboration*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+
+*Karachi, Pakistan 🇵🇰 · Open to remote collaboration*
 
 </div>
