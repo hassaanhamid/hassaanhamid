@@ -58,39 +58,6 @@ I specialize in **Data Science**, **Machine Learning**, and **AI Automation** �
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | What it does | Stack |
-|:---|:---|:---:|
-| [**ContentSync**](https://github.com/hassaanhamid/ContentSync) | Automated content syncing pipeline | `Python` |
-| [**RAG PDF Chatbot**](https://github.com/hassaanhamid/RAG-PDF-Chatbot) | Chat with PDFs using Retrieval-Augmented Generation | `JS` |
-| [**LinkedIn Automation**](https://github.com/hassaanhamid/LinkedIn-Posting-Automation-for-Blogs-Notion-and-Sitemaps-) | Auto-publish from Notion & blogs to LinkedIn | `Python` |
-| [**OOP Blackjack**](https://github.com/hassaanhamid/OOP-Blackjack) | Fully playable card game built with OOP principles | `C++` |
-| [**x86 Blackjack**](https://github.com/hassaanhamid/x86-Assembly---Blackjack-Game) | Same game, raw Assembly — just to prove it could be done | `ASM` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassaanhamid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhamid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanhamid&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
